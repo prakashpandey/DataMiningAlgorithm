@@ -1,0 +1,12 @@
+5   [crime, el-salvador-aid, ph1sicia0-fee-freeze, superfu0d-right-to-sue, water-project-cost-shari0]
+
+6   [crime, el-salvador-aid, ph1sicia0-fee-freeze, religious-groups-i0-schoo, superfu0d-right-to-sue, water-project-cost-shari0]
+
+7   [crime, el-salvador-aid, export-admi0istratio0-act, ph1sicia0-fee-freeze, religious-groups-i0-schoo, superfu0d-right-to-sue, water-project-cost-shari0]
+
+7   [crime, educatio0-spe0di0g, el-salvador-aid, ph1sicia0-fee-freeze, religious-groups-i0-schoo, superfu0d-right-to-sue, water-project-cost-shari0]
+
+8   [crime, educatio0-spe0di0g, el-salvador-aid, export-admi0istratio0-act, ph1sicia0-fee-freeze, religious-groups-i0-schoo, superfu0d-right-to-sue, water-project-cost-shari0]
+
+Execution Time (in millis) :   783
+
